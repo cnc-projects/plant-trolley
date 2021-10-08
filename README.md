@@ -1,22 +1,20 @@
 PLANT TROLLEY -- CUT READY
 
-![Image of Trolley](8.-PLANT-TROLLEY.jpg?raw=true "Image")
+![Image of Trolley](image_finished_plant_trolley.jpg?raw=true "Image")
 
+Designed to have casters underneath. The unit can be moved freely
+about. This was created to hold storage boxes below and potted 
+plants on top. Should help bring a bit of greenery and harmony to a space. 
 
-Designed to have casters underneath so it could be moved about this was created to hold storage boxes below and be support plants on top to bring a bit greenery to a room. 
-
-##### DOWNLOAD
 
 RHINO 3D MODEL
 
-![Rhino Model File](5050707.png?raw=true "3dm file")
-![File](PLANT-TROLLY-766MM-WIDE-CUT-READY.3dm?raw=true "")
-
 ##### DOWNLOAD
+
+[![Download](3dm_icon.png?raw=true "3DM file")](PLANT-TROLLY-766MM-WIDE-CUT-READY.3dm?raw=true "3dm")
 
 DWG FILE
 
-![DWG File](1352946.png?raw=true "DWG file")
-![File](PLANT-TROLLY-766MM-WIDE-CUT-READY.dwg?raw=true "DWG")
+##### DOWNLOAD
 
-[![Foo](dwg_icon.png?raw=true "DWG file")](PLANT-TROLLY-766MM-WIDE-CUT-READY.dwg?raw=true "DWG")
+[![Download](dwg_icon.png?raw=true "DWG file")](PLANT-TROLLY-766MM-WIDE-CUT-READY.dwg?raw=true "dwg")
