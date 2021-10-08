@@ -18,3 +18,5 @@ DWG FILE
 
 ![DWG File](1352946.png?raw=true "DWG file")
 ![File](PLANT-TROLLY-766MM-WIDE-CUT-READY.dwg?raw=true "DWG")
+
+[![Foo](dwg_icon.png?raw=true "DWG file")](PLANT-TROLLY-766MM-WIDE-CUT-READY.dwg?raw=true "DWG")
