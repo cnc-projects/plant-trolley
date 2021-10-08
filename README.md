@@ -9,7 +9,7 @@ Designed to have casters underneath so it could be moved about this was created 
 
 RHINO 3D MODEL
 
-![5050707.png?raw=true]![Download Link](PLANT-TROLLY-766MM-WIDE-CUT-READY.3dm?raw=true "Rhino 3dm")
+![5050707.png?raw=true "3dm file"]![](PLANT-TROLLY-766MM-WIDE-CUT-READY.3dm?raw=true "")
 
 ##### DOWNLOAD
 
