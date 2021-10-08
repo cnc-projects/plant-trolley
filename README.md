@@ -15,4 +15,4 @@ RHINO 3D MODEL
 
 DWG FILE
 
-![Download Link](PLANT-TROLLY-766MM-WIDE-CUT-READY.dwg?raw=true "DWG")
+![https://github.com/cnc-projects/plant-trolley/blob/4dd5a88fb240312b0b26f6bd0e3b89d8f6981a82/1352946.png?raw=true](PLANT-TROLLY-766MM-WIDE-CUT-READY.dwg?raw=true "DWG")
